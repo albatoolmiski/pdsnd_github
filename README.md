@@ -1,15 +1,18 @@
-28 october 2019
+27
 Include the date you created this project and README file.
 
-programming for data science 
+<<<<<<< HEAD
+programming for data science
+||||||| merged common ancestors
+### Project Title
+=======
+README
+>>>>>>> refactoring
 Replace the Project Title
 
-### Description
-Describe what your project is about and what it does
+update file
 
-### Files used
-Include the files used
+bikeshae.py.
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
+thank you udacity.
