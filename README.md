@@ -6,7 +6,7 @@ Replace the Project Title
 
 update file
 
-bikeshae.py
+bikeshae.py.
 
 
-thank you udacity 
+thank you udacity.
